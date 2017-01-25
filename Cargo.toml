@@ -1,0 +1,7 @@
+[package]
+name = "splice"
+version = "1.0.0"
+authors = ["QuietMisdreavus <grey@quietmisdreavus.net>"]
+description = "Helper functions to insert elements from a slice or Vec into another Vec"
+documentation = "https://docs.rs/splice"
+repository = "https://github.com/QuietMisdreavus/splice-rs"
