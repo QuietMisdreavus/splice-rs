@@ -1,6 +1,6 @@
 # splice
 
-[Documentation](https://docs.rs/splice)
+~~[Documentation](https://docs.rs/splice)~~ (not until i push this, which might not happen)
 
 As of Rust 1.14, there are a missing set of functions on the Vec struct. There are methods to insert
 a single item to the middle of a Vec, and there are methods to append a Vec onto another Vec, but
